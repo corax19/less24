@@ -1,7 +1,8 @@
 *.gem
 *.rbc
 
-/file0.txt
+.file0.txt
+
 /.config
 /coverage/
 /InstalledFiles
